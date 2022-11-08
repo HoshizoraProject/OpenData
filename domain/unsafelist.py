@@ -8,8 +8,8 @@ baseFileName = 'unsafelist'
 def main(argv):
     # 讀取的檔案類型(預設抓最小的 tar.zx)
     filetype = 'tar.xz'
-    # 儲存的目錄(郁設在include)
-    filefolder = 'include'
+    # 儲存的目錄(預設在 importData)
+    filefolder = 'importData'
 
     # 嘗試取得輸入參數
     try:
