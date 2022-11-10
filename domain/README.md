@@ -1,8 +1,11 @@
 # UnsafeList
 根據公開資料源產出的不安全網域清單
 
-## Example Code for Python
-這是一個 Python 使用上的範例
+## 使用前請服用下列事項
+* 請把 unsafelist.py 抓去用
+* 請注意 unsafelist.py 內使用了 match, 需要 Python >= 3.10 版本, 否則請自行改為 if else結構
+
+## Python 使用上的範例
 ```
 import subprocess, re
 from urllib.parse import urlparse
@@ -70,3 +73,5 @@ for url in urls:
     print(f'{url_parse.netloc in unsafelist}: {url_parse.netloc}')
 
 ```
+## License
+GNU General Public License v3.0
