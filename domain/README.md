@@ -3,7 +3,7 @@
 
 ## 使用前請服用下列事項
 * 請把 unsafelist.py 抓去用
-* 請注意 unsafelist.py 內使用了 match, 需要 Python >= 3.10 版本, 否則請自行改為 if else結構
+* 請注意 unsafelist.py 內使用了 match, 需要 Python >= 3.10 版本, 否則請自行改為 if else 結構
 
 ## Python 使用上的範例
 ```
@@ -23,7 +23,7 @@ def func_check_unsafelist():
     proc = subprocess.run(['python3', 'unsafelist.py'],
                           stdout=subprocess.PIPE)
     if (proc.returncode != 0):
-        print("執行 get_unsafelist.py 發生異常!")
+        print("執行 unsafelist.py 發生異常!")
         return
 
     # 取得 MD5 資料
