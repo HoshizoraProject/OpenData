@@ -74,4 +74,4 @@ for url in urls:
 
 ```
 ## License
-GNU General Public License v3.0
+GNU Lesser General Public License v3.0
