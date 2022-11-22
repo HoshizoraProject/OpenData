@@ -61696,7 +61696,7 @@ ml$denyallow=google.mlmobili.mlmelody.mldcod.mlinfo-matin.mlamap.mlmastodon.mlwo
 gq$denyallow=deimos.gqinege.gqtvgelive.gqcomprarcarros.gq
 cf$denyallow=google.cfrths.cfvoitures.cfassembleenationale-rca.cfcps-rca.cfacap.cfmiraculousladybug.cfscrat.cf
 pw$denyallow=libgen.pwpetridish.pwpalaugov.pwdpc.pwzikrap.pwdemonoid.pwbittor.pwbuttercup.pwrezka.pwdarkcrystal.pwxor.pwfullhdfilmizlesene.pwb00k.pwgopass.pw
-top$denyallow=corriente.topgdtot.topnicenature.topreminder.topmagocoro.topcastlevania.topsuiten.topshucks.top1stream.topambr.toptechblog.topchanglam10.topchanglam11.toppdcdn1.topmastodon.top
+top$denyallow=corriente.topgdtot.topnicenature.topreminder.topmagocoro.topcastlevania.topsuiten.topshucks.top1stream.topambr.toptechblog.topchanglam10.topchanglam11.toppdcdn1.topmastodon.toppressplay.top
 loan
 agency$denyallow=battlefield.agencyshortcut.agency
 gdn
@@ -65557,6 +65557,7 @@ zutozone.com
 zz1200.com
 niderschlagsradar.de
 2c236979-b1bb-4c7a-915c-df74dbad0d8c.s3.ap-northeast-2.amazonaws.com
+smartlink.name
 newntflix-popup
 giveawaycord.
 downloadprovider.me
