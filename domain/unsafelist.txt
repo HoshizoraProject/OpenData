@@ -59928,7 +59928,7 @@ agency$denyallow=battlefield.agencyshortcut.agency
 gdn
 bid
 ooo
-monster$denyallow=egybest.monsteryts.monstercloudcdn.monster
+monster$denyallow=egybest.monsteryts.monstercloudcdn.monsterfedi.monster
 sbs
 discount
 .buzz/*/?*=*&*=*&*=*&*=*&*=
