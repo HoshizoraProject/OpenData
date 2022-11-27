@@ -2,7 +2,7 @@ import sys, getopt, os, tarfile, zipfile
 from urllib.request import urlopen
 
 # 設定基礎使用的設定
-baseUrl = 'https://raw.githubusercontent.com/YueyuHoshizora/OpenData/main/domain/unsafelist'
+baseUrl = 'https://raw.githubusercontent.com/HoshizoraProject/OpenData/main/domain/unsafelist'
 baseFileName = 'unsafelist'
 
 def main(argv):
