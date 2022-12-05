@@ -48828,7 +48828,6 @@ zymerget.faith
 zymerget.party
 zymerget.stream
 zymerget.win
-dizcord.gift
 1stireland.com
 1sttheglobal.com
 1sttheworld.com
