@@ -33232,6 +33232,7 @@ ublock.org
 useragentswitch.com
 dev-nano.com
 adblocker-app.info
+block-ads-now.com
 inside3d.com
 viaarena.com
 qasirgame.com
@@ -37301,6 +37302,7 @@ yarlnk.com
 yonabrar.com
 zagtertda.com
 zoawufoy.net
+glthub.$document,popup
 downloadprovider.me
 cash93.com
 a4alig.com
