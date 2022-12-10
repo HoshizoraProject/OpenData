@@ -1,6 +1,9 @@
 # UnsafeList
 根據公開資料源產出的不安全網域清單
 
+## 主要資料網址
+https://unsafelist.opendata-hoshizora.xyz
+
 ## 使用前請服用下列事項
 * 請把 unsafelist.py 抓去用
 * 請注意 unsafelist.py 內使用了 match, 需要 Python >= 3.10 版本, 否則請自行改為 if else 結構
