@@ -4,8 +4,11 @@
 ## 主要資料網址
 https://unsafelist.opendata-hoshizora.xyz
 
+* MD5檢查 `https://unsafelist.opendata-hoshizora.xyz/unsafelist.md5` [連結](https://unsafelist.opendata-hoshizora.xyz/unsafelist.md5)
+* 各類檔案格式 `https://unsafelist.opendata-hoshizora.xyz/unsafelist.` `txt | tar.gz | tar.xz | tar.bz2 | zip`
+
 ## 使用前請服用下列事項
-* 請把 unsafelist.py 抓去用
+* 請把 [unsafelist.py](https://github.com/HoshizoraProject/OpenData/blob/main/domain/unsafelist.py) 抓去用
 * 請注意 unsafelist.py 內使用了 match, 需要 Python >= 3.10 版本, 否則請自行改為 if else 結構
 
 ## Python 使用上的範例
