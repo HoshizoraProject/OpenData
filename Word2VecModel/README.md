@@ -8,7 +8,15 @@
 ## 最後更新
 2022-12-11 08:00 UTC+8
 
-## 參考
+## 自行訓練
+[下載](https://github.com/HoshizoraProject/OpenData/raw/main/Word2VecModel/word2vec.sh) `word2vec.sh`
+```
+chmod +x word2vec.sh
+./word2vec.sh
+```
+將會在當前目錄下建立 `word2vec` 並開始安裝及抓取箱官元件後開始訓練
+
+## 參考引用
 https://github.com/zake7749/word2vec-tutorial
 
 ## License
