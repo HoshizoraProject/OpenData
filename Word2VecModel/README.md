@@ -2,7 +2,8 @@
 向量化NLP中文語意資料
 
 ## 資料來源
-[Wiki](https://dumps.wikimedia.org/zhwiki/latest/zhwiki-latest-pages-articles.xml.bz2) `01-Dec-2022 18:10` `2.5GB`
+* [維基百科資料庫](https://dumps.wikimedia.org/zhwiki/latest/) 使用 `pages-articles.xml.bz2` 結尾的檔案
+* [直接下載](https://dumps.wikimedia.org/zhwiki/latest/zhwiki-latest-pages-articles.xml.bz2)
 
 ## 最後更新
 2022-12-11 08:00 UTC+8
