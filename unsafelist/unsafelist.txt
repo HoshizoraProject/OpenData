@@ -7110,7 +7110,7 @@ zzz3.cjsocial8.repl.co
 ga$denyallow=google.gafiltri-dns.gadgdi.gavoitures.gaeconomie-gabon.ga9191.gaanimevsub.ga
 gq$denyallow=deimos.gqinege.gqtvgelive.gqcomprarcarros.gq
 cf$denyallow=google.cfrths.cfvoitures.cfassembleenationale-rca.cfcps-rca.cfacap.cfmiraculousladybug.cfscrat.cf
-pw$denyallow=libgen.pwpetridish.pwpalaugov.pwdpc.pwzikrap.pwdemonoid.pwbittor.pwbuttercup.pwrezka.pwdarkcrystal.pwxor.pwfullhdfilmizlesene.pwb00k.pwgopass.pw
+pw$denyallow=libgen.pwpetridish.pwpalaugov.pwdpc.pwzikrap.pwdemonoid.pwbittor.pwbuttercup.pwrezka.pwdarkcrystal.pwxor.pwfullhdfilmizlesene.pwb00k.pwgopass.pwvost.pw
 top$denyallow=corriente.topgdtot.topnicenature.topreminder.topmagocoro.topcastlevania.topsuiten.topshucks.top1stream.topambr.toptechblog.topchanglam10.topchanglam11.toppdcdn1.topmastodon.toppressplay.top
 agency$denyallow=battlefield.agencyshortcut.agency
 monster$denyallow=egybest.monsteryts.monstercloudcdn.monsterfedi.monster
@@ -11415,6 +11415,8 @@ yugfvan.icu
 yugiidv.xyz
 zaolutd.icu
 zigaahm.icu
+link.sv
+4.fo
 downloadprovider.me
 cash93.com
 a4alig.com
