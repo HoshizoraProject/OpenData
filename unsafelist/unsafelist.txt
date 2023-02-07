@@ -25955,6 +25955,7 @@ jjspy.ml
 key-logger-90fff.firebaseio.com
 kidsguard-6c6a9.firebaseio.com
 kidsshield.net
+klg.a-spy.com
 kokum.ru
 kuuvv.com
 kvshdi.birxpk.com
@@ -25968,6 +25969,7 @@ locatorprivacy.com
 login.quanly24h.net
 login.webwatcher.com
 loverman.net
+m.a-spy.com
 m.asgardtech.ru
 m.lifecircle.app
 maxxspy.com
@@ -26041,6 +26043,7 @@ mtf.re
 mtoolapp.biz
 mtoolapp.net
 mxspy.com
+my.a-spy.com
 my.aispyer.com
 my.copy9.com
 my.ispyoo.com
