@@ -33,7 +33,7 @@ def main(argv):
             os.mkdir(filefolder)
 
     # 取得線上 md5 檔案
-    with urlopen(f'{baseUrl}.md5') as webf:
+    with urlopen(f'{baseUrl}/{baseFileName}.md5') as webf:
         # 讀取線上 md5 檔案
         web_md5 = webf.read().decode("utf-8")
 
@@ -57,12 +57,12 @@ def main(argv):
     try:
         match(filetype):
             case 'txt':
-                with urlopen(f'{baseUrl}.txt') as webf:
+                with urlopen(f'{baseUrl}/{baseFileName}.txt') as webf:
                     with open(f'{filefolder}/{baseFileName}.txt', 'wb') as f:
                         f.write(webf.read())
         
             case 'zip':
-                with urlopen(f'{baseUrl}.zip') as webf:
+                with urlopen(f'{baseUrl}/{baseFileName}.zip') as webf:
                     with open(f'{filefolder}/{baseFileName}.zip', 'wb') as f:
                         f.write(webf.read())
                 with zipfile.ZipFile(f'{filefolder}/{baseFileName}.zip', 'r') as f:
@@ -70,7 +70,7 @@ def main(argv):
                 os.remove(f'{filefolder}/{baseFileName}.zip')
 
             case 'tar.gz':
-                with urlopen(f'{baseUrl}.tar.gz') as webf:
+                with urlopen(f'{baseUrl}/{baseFileName}.tar.gz') as webf:
                     with open(f'{filefolder}/{baseFileName}.tar.gz', 'wb') as f:
                         f.write(webf.read())
                     with tarfile.open(f'{filefolder}/{baseFileName}.tar.gz', 'r:gz') as f:
@@ -78,7 +78,7 @@ def main(argv):
                 os.remove(f'{filefolder}/{baseFileName}.tar.gz')
 
             case 'tar.xz':
-                with urlopen(f'{baseUrl}.tar.xz') as webf:
+                with urlopen(f'{baseUrl}/{baseFileName}.tar.xz') as webf:
                     with open(f'{filefolder}/{baseFileName}.tar.xz', 'wb') as f:
                         f.write(webf.read())
                     with tarfile.open(f'{filefolder}/{baseFileName}.tar.xz', 'r:xz') as f:
@@ -86,7 +86,7 @@ def main(argv):
                 os.remove(f'{filefolder}/{baseFileName}.tar.xz')
 
             case 'tar.bz2':
-                with urlopen(f'{baseUrl}.tar.bz2') as webf:
+                with urlopen(f'{baseUrl}/{baseFileName}.tar.bz2') as webf:
                     with open(f'{filefolder}/{baseFileName}.tar.bz2', 'wb') as f:
                         f.write(webf.read())
                     with tarfile.open(f'{filefolder}/{baseFileName}.tar.bz2', 'r:bz2') as f:
