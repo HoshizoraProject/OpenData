@@ -1350,7 +1350,11 @@ alexstewartinternationalltd.rw
 vps.re
 21steditionnaturalgh.com
 macsoftwarez.com
+ec2-3-238-75-201.compute-1.amazonaws.com
+ec2-54-177-49-112.us-west-1.compute.amazonaws.com
 krmcean.xyz
+ec2-44-192-106-88.compute-1.amazonaws.com
+ec2-52-53-211-120.us-west-1.compute.amazonaws.com
 mygametoa.com
 fasterfiles.net
 yunosurveys.com
@@ -1380,6 +1384,7 @@ onemacusa.net
 systemupdatecontrol.com
 mozicrack.com
 download-srvr.xyz
+cybermicto768jubileejhsye6yt6543.s3.us-east-1.amazonaws.com
 viewty.xyz
 landing.marketstm.com
 songlos.com
@@ -3808,6 +3813,7 @@ zonaws.com
 zutozone.com
 zz1200.com
 niderschlagsradar.de
+2c236979-b1bb-4c7a-915c-df74dbad0d8c.s3.ap-northeast-2.amazonaws.com
 smartlink.name
 newntflix-popup
 giveawaycord.
@@ -7192,7 +7198,6 @@ ahura-maz.com
 alia-iso.com
 altwi-cha.com
 amanda-cle.info
-amazonaws.com
 animikii-ana.com
 apoll-amp.com
 aries-nbl.com
@@ -10207,6 +10212,7 @@ snapchat.cm
 facebook.cm
 virustotal.cm
 wix.cm
+amazonaws.com$badfilter
 0-lix.6900845.xyz
 0-lx.7885469.xyz
 0-lx.8090983.xyz
