@@ -14,7 +14,7 @@
 chmod +x word2vec.sh
 ./word2vec.sh
 ```
-將會在當前目錄下建立 `word2vec` 並開始安裝及抓取箱官元件後開始訓練
+將會在當前目錄下建立 `word2vec` 並開始安裝及抓取相關元件後開始訓練
 
 ## 參考引用
 https://github.com/zake7749/word2vec-tutorial
