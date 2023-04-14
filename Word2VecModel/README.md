@@ -10,7 +10,7 @@
 
 ## 自行訓練
 [下載](https://github.com/HoshizoraProject/OpenData/raw/main/Word2VecModel/word2vec.sh) `word2vec.sh`
-```
+```console
 chmod +x word2vec.sh
 ./word2vec.sh
 ```
