@@ -12,7 +12,7 @@ https://unsafelist.opendata-hoshizora.xyz
 * 請注意 unsafelist.py 內使用了 match, 需要 Python >= 3.10 版本, 否則請自行改為 if else 結構
 
 ## Python 使用上的範例
-```
+```python
 import subprocess, re
 from urllib.parse import urlparse
 
