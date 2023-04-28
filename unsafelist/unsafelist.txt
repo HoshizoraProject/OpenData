@@ -12514,6 +12514,7 @@ mip.api.mcafeewebadvisor.com
 snapchat.cm
 facebook.cm
 wix.cm
+14d.us
 amazonaws.com$badfilter
 0-lix.6900845.xyz
 0-lx.7885469.xyz
