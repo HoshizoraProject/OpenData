@@ -22,8 +22,8 @@ try:
             with urlopen(unsafelist_url) as wf:
                 print(line, file=f)
                 
-            except Exception:
-                print(f"issue: {unsafelist_url}")
+        except Exception:
+            print(f"issue: {unsafelist_url}")
 
     # 產出 zip 壓縮檔
     with zipfile.ZipFile(f'{fileFolder}/{fileName}.zip',
