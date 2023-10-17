@@ -24,7 +24,7 @@ jobs:
       with:
         python-version: '3.10'
     - name: Run Shell
-      run: python main.py
+      run: python auto-create-unsafelist-compression.py
     - name: Set current date as env variable
       run: echo "now=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
     - name: Pushes file
