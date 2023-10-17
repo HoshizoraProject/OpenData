@@ -42,6 +42,9 @@ try:
     # 產出 tar.zb2 壓縮檔
     with tarfile.open(f'{fileFolder}/{fileName}.tar.bz2', 'w:bz2') as f:
         f.add(f'{fileFolder}/{fileName}.txt', arcname=f'{fileName}.txt')
-        
+
+    # 刪除原始下載文件
+    os.remove(f'{fileFolder}/{fileName}.txt')
+    
 except Exception as ex:
     print(f"issue: {ex}")
