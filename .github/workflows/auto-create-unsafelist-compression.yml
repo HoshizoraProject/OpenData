@@ -11,7 +11,7 @@ name: Auto Create UnsafeList Compression
 on:
   push:
     paths:
-      - "unsafelist/unsafelist.md5"
+      - "unsafelist/unsafelist.txt"
 
 jobs:
   deploy:
