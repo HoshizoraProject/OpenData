@@ -20,10 +20,13 @@ try:
         try:
             # 從網路開啟檔案
             with urlopen(unsafelist_url) as wf:
-                print(line, file=f)
+                lines = wf.read().decode('utf-8').split('\n')
+                for line in lines:
+                    if len(line) < 1: continue
+                        print(line, file=f)
                 
         except Exception:
-            print(f"issue: {unsafelist_url}")
+            print(f"issue")
 
     # 產出 md5 資料檔
     m = hashlib.md5()
