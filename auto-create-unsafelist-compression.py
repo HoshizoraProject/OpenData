@@ -23,7 +23,7 @@ try:
                 lines = wf.read().decode('utf-8').split('\n')
                 for line in lines:
                     if len(line) < 1: continue
-                        print(line, file=f)
+                    print(line, file=f)
                 
         except Exception:
             print(f"issue")
